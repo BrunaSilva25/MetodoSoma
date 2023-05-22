@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class metododecalculo {
 	
-//mandar github
+
 		public static void main(String[] args) {
 		System.out.println("digite numero pra a:");
 		Scanner entrada = new Scanner(System.in);
