@@ -9,7 +9,7 @@ public class metododecalculo {
 		Scanner entrada = new Scanner(System.in);
 		int a = entrada.nextInt();
 		
-		System.out.println("digite numero pra a:");
+		System.out.println("digite numero pra b:");
 		Scanner entrada2 = new Scanner(System.in);
 		int b = entrada2.nextInt();
 		
